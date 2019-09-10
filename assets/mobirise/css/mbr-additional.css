@@ -2305,31 +2305,8 @@ body {
 .cid-rBGIZhHjaS .dropdown-item:hover {
   color: #149dcc !important;
 }
-.cid-rBH0MyZx9N {
-  background-image: url("../../../assets/images/unknown-7-328x331.png");
-}
-.cid-rBH0MyZx9N .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-rBH0MyZx9N .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-rBH0MyZx9N .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-rBH0MyZx9N .mbr-text {
-  color: #ffffff;
-}
-.cid-rBH0MyZx9N .card {
-  padding-bottom: 1.5rem;
+.cid-rBH1OsaqJm {
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
 .cid-rBGIULivyd {
   padding-top: 90px;
